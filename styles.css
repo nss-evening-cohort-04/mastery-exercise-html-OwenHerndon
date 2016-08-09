@@ -1,0 +1,71 @@
+article {
+	border: 1px solid lightblue;
+	width: 30%;
+	display: inline-block;
+	margin-bottom: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	padding-left: 3.25em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	/*padding-right: 4em;*/
+	/*justify-content: center;*/
+}
+
+/*section img{
+	justify-content: center;
+}
+*/
+
+/*.displayed{
+	position: center;
+}
+*/
+
+div{
+	text-align: justify;
+	padding-right: 1em;
+	padding-left: 1em;
+}
+
+h1 {
+	text-align: center;
+	border: 1px dotted lightgray;
+	margin-top: 0px;
+    padding-top: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 25px;
+}
+
+li{
+	list-style-type: none;
+}
+
+.areYouStillThere{
+	background: gray;
+	margin-top: 20px;
+	color: yellow;
+	margin-bottom: 20px;
+}
+
+.boldStrategyCotton{
+	font-weight: bold;
+}
+
+h5{
+	padding-left: .5em;
+	font-size: 100%;
+	margin: 0;
+}
+
+section ul{
+	margin: 0;
+	padding-left: 1em;
+}
+
+footer{
+	font-weight: normal;
+	font-size: 60%;
+}
